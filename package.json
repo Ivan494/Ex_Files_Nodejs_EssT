@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_esst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan494/Ex_Files_Nodejs_EssT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan494/Ex_Files_Nodejs_EssT/issues"
+  },
+  "homepage": "https://github.com/Ivan494/Ex_Files_Nodejs_EssT#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "ws": "^4.0.0"
+  }
+}
